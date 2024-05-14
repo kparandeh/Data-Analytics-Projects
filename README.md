@@ -1,30 +1,23 @@
 # Welcome to my Fire Service Analytics repo!
 
-## About Me
+## Motivation
 
-Hello! I'm Kyan, a data analyst with a passion for uncovering insights from open data. I work full-time as a firefighter for the City of Toronto, and in my free time, I delve into data analytics projects to explore various aspects of fire prevention, fire safety, and business analysis.
+As a firefighter for the City of Toronto with a passion for data analytics, I was inspired to combine my expertise in both fields to uncover valuable insights. By analyzing fire incident data, I aim to contribute to better fire safety measures and more efficient resource allocation, ultimately helping to save lives and preserve property.
 
-## Current Focus
+## Data Sources
 
-I primarily work with open data from the City of Toronto, with a special focus on datasets related to Toronto Fire Services. My projects aim to provide actionable insights that can improve fire safety measures, optimize resource allocation, and enhance overall public safety.
+The data for this project comes from the City of Toronto's open data portal, specifically from the Toronto Fire Services. The datasets include:
+- **Basic Incident Details (2021):** This dataset includes information on all incidents responded to by TFS in 2022, not just fires. It contains details such as incident types, alarm level, and general locations.
+- **Fire Incidents Data (2011-2022):** Detailed records of fire incidents, including incident dates, locations, alarm levels, and estimated dollar losses.
+- **TFS Run Areas:** Geospatial data representing the areas covered by different fire stations.
 
-## Skills and Tools
+## Project Description
 
-- **Programming Languages:** Python, SQL
-- **Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Geopandas
-- **Geospatial Analysis:** QGIS, GeoPandas
-- **Machine Learning:** Scikit-Learn
-- **Database Management:** MySQL
-- **Project Management and Version Control:** Git, GitHub
+2021 TFS Incident Frequency: These heatmaps visualize all incidents responded to by TFS in 2021, organized by day of the week, month, and hour.
 
-## How I Work
+2022 TFS Major Fire Incidents: This visualization highlights TFS Run Areas with incident counts for fires with alarm levels 1 and higher in 2022. It provides insights into the distribution and frequency of major fire incidents across different areas in Toronto.
 
-My approach involves:
-
-1. **Data Collection:** Gathering and cleaning data from various open sources.
-2. **Data Analysis:** Using statistical methods and machine learning to uncover insights.
-3. **Visualization:** Creating clear and informative visualizations to communicate findings.
-4. **Reporting:** Documenting the process and results in detailed reports and presentations.
+TFS Fire Damage Costs Map: This map visualizes the total estimated dollar loss from fire damage, organized by fire station run area in Toronto from January 2011 to December 2022. Created using the GeoPandas library in Python, this map provides a clear representation of the financial impact of fires on various neighborhoods.
 
 ## Get in Touch
 
