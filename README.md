@@ -7,7 +7,7 @@ As a firefighter for the City of Toronto with a passion for data analytics, I wa
 ## Data Sources
 
 The data for this project comes from the City of Toronto's open data portal, specifically from the Toronto Fire Services. The datasets include:
-- **Basic Incident Details (2021):** This dataset includes information on all incidents responded to by TFS in 2022, not just fires. It contains details such as incident types, alarm level, and general locations.
+- **Basic Incident Details (2022):** This dataset includes information on all incidents responded to by TFS in 2022, not just fires. It contains details such as incident types, alarm level, and general locations.
 - **Fire Incidents Data (2011-2022):** Detailed records of fire incidents, including incident dates, locations, alarm levels, and estimated dollar losses.
 - **TFS Run Areas:** Geospatial data representing the areas covered by different fire stations.
 
