@@ -13,7 +13,7 @@ The data for this project comes from the City of Toronto's open data portal, spe
 
 ## Project Description
 
-2021 TFS Incident Frequency: These heatmaps visualize all incidents responded to by TFS in 2021, organized by day of the week, month, and hour.
+2022 TFS Incident Frequency: These heatmaps visualize all incidents responded to by TFS in 2022, organized by day of the week, month, and hour.
 
 2022 TFS Major Fire Incidents: This visualization highlights TFS Run Areas with incident counts for fires with alarm levels 1 and higher in 2022. It provides insights into the distribution and frequency of major fire incidents across different areas in Toronto.
 
